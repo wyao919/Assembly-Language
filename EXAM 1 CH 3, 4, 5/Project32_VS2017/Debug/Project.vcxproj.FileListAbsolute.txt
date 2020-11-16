@@ -1,0 +1,2 @@
+C:\Users\Willy\Sync\CO SCI 117 Assembly Language\LABS\TEST 1\Project32_VS2017\Debug\Project.exe
+C:\Users\Willy\Sync\CO SCI 117 Assembly Language\LABS\TEST 1\Project32_VS2017\Debug\Project.pdb

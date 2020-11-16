@@ -1,0 +1,2 @@
+﻿LAB 5.5.obj : error LNK2005: _main@0 already defined in LAB 5.11.obj
+C:\Users\Willy\Sync\CO SCI 117 Assembly Language\LABS\Chapter 5\Debug\Project.exe : fatal error LNK1169: one or more multiply defined symbols found
